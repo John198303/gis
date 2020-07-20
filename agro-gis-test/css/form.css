@@ -1,0 +1,40 @@
+#name, #name2, #nome, #phone, #email{
+	border-radius: 3px;
+	background: white;
+	height: 30px;
+  	width: 350px;
+  	padding-left: 5px;
+  	font-family: sans-serif;
+  	cursor: pointer;
+  	color: gray;
+  		
+}
+label{
+	font-size: 16px;
+	display: initial;
+    font-weight: 100;
+	
+}
+#text{
+	width: 350px;
+	height: 50px;
+	border-radius: 5px;
+	background: #cfd9ea82;
+}
+.form_staff{
+	padding-left: 5px;
+}
+#address{
+	border-radius: 5px;
+	background: #cfd9ea82;
+	height: 100px;
+  	width: 350px;
+}
+#szr-span{
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+#review_fertilizer{
+	width: 350px;
+	height: 100px;
+}

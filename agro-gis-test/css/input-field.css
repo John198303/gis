@@ -1,0 +1,159 @@
+.popup-content{
+	font: 95% Arial, Helvetica, sans-serif;
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 16px;
+    background: #F7F7F7;
+}
+.popup-content h2{
+	background: #43D1AF;
+    padding: 20px 0;
+    font-size: 140%;
+    font-weight: 300;
+    text-align: center;
+    color: #fff;
+    margin: -16px -16px 30px -16px;
+	cursor: default;
+}
+.popup-content input[type="text"],
+.popup-content input[type="date"],
+.popup-content input[type="datetime-local"],
+.popup-content input[type="number"],
+.popup-content input[type="time"],
+.popup-content select{
+	-webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    background: #fff;
+    margin-bottom: 4%;
+    border: 1px solid #ccc;
+    padding: 3%;
+    color: #555;
+    font: 95% Arial, Helvetica, sans-serif;
+}
+.popup-content input[type="text"]:focus,
+.popup-content input[type="date"]:focus,
+.popup-content input[type="datetime-local"]:focus,
+.popup-content input[type="number"]:focus,
+.popup-content input[type="time"]:focus,
+.popup-content select:focus{
+	box-shadow: 0 0 5px #43D1AF;
+    padding: 3%;
+    border: 1px solid #43D1AF;
+}
+.button2,
+.button2[type="button"]{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    padding: 3%;
+    background: #43D1AF;
+    border-bottom: 2px solid #30C29E;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;    
+    color: #fff;
+	cursor: pointer;
+}
+.button2:hover,
+.button2:hover{
+	background: #2EBC99;
+}
+.span_input{
+	
+}
+.title_header{
+	color: white;
+    text-decoration: underline;
+	cursor: default;
+}
+.copyright{
+	color: #16524da3;
+	font-size: 12px;
+	cursor: default;
+}
+.output{
+	
+}
+.succes_button{
+	background-color: #276f1a; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 10px;
+	width: 90%;
+	
+}
+.succes_button_agro{
+	background-color: #43d1af; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 10px;
+	width: 90%;
+	
+}
+.succes_button:hover{
+	background-color: #4CAF50;
+    color: white;
+}
+.false_button{
+	background-color: white; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 10px;
+	color: black;
+	width: 90%;
+	
+}
+.false_button:hover{
+	background-color: gray;
+    color: white;
+}
+
+
+.wrapper_succes{
+	border: 1px solid black;
+	max-width: 450px;
+    padding: 15px;
+    background-color: greenyellow;
+    text-align: center;
+	border-radius: 15px;
+	height: auto;
+}
+.wrapper_false{
+	border: 1px solid black;
+	max-width: 450px;
+    padding: 15px;
+    background-color: red;
+    text-align: center;
+	color: white;
+	border-radius: 15px;
+	height: auto;
+}

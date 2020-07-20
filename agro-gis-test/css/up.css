@@ -1,0 +1,97 @@
+.up {
+	background: #004889;
+	margin-left: auto;
+	width: 100%;	
+	position: relative;
+	top: 0px;
+	height:50px;
+	overflow: hidden;
+}
+#datepicker{	
+	margin-left: 380px;
+	position: absolute;
+	top: 24px;
+	z-index: 12;
+	color: black;
+	
+}
+.p1{
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 1em black;
+	text-align: left;
+	position: absolute;
+	left: 1%;	
+	margin-top: 0.5%;
+	
+	
+	
+	
+}
+.p2{
+	color: white;
+	position: absolute;
+	margin-left: 250px;
+	text-shadow: 1px 1px 2px black, 0 0 1em black;
+	margin-top: -30px;
+	
+}
+.but{
+	position: absolute;
+	left: 1440px;
+	
+}
+.wheater{
+	position:relative;
+	margin-left: 100%;
+	top: 0%;
+	right: 12%;
+}
+.form{
+	margin-top: 14px;
+	margin-left: 70%;
+	position: absolute;
+}
+.block_1{
+	border: 1px solid lightgray;
+	width: 20%;
+	position: absolute;
+	margin-left: 17.3%;
+	margin-top: 0;
+	padding: 20px;
+	height: 100%;
+}
+.block_2{
+	border: 1px solid lightgray;
+	width: 30%;
+	position: absolute;
+	margin-left: 39.8%;
+	margin-top: 0;
+	padding: 20px;
+	height: 100%;
+}
+.block_3{
+	border: 1px solid lightgray;
+	width: 25%;
+	position: absolute;
+	margin-left: 72.3%;
+	margin-top: 0;
+	padding: 20px;
+	height: 100%;
+}
+#option{
+	margin-left: 470px;
+	position: absolute;
+	top: 23px;
+	z-index: 12;
+	color: black;
+}
+#dashboard_div{
+	margin-top: 600px;
+	position: absolute;
+}
+.analitika{
+	color: black;
+}
+.karty{
+	color: black;
+}

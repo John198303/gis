@@ -1,0 +1,14 @@
+.container{
+	width: 820px;
+	margin-top: -65px;
+    margin-left: -15px;
+}
+	
+}
+.table-responsive{
+	width: auto;
+}
+.table table-bordered table-striped{
+	background-color: red;
+	
+}
